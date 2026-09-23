@@ -72,7 +72,16 @@ This notebook performs an **AI-assisted market analysis** workflow:
 7. **Export datasets** - Download CSV, JSON, and raw API responses (cell 9)
 
 ### Key Findings
-[Add your specific market findings here after running the notebook]
+
+Current land market prices in Onigbongbo LCDA range from ₦260,000 to ₦3,500,000 per sqm (as of September 23, 2026):
+
+- **G R A (Ikeja GRA)**: ₦3,500,000/sqm - Premium commercial/residential zone
+- **Opebi**: ₦2,000,000/sqm - Strong market demand
+- **Onigbongbo**: ₦1,550,000/sqm - Moderate market activity
+- **Oregun**: ₦1,200,000/sqm - Emerging development zone
+- **Wasimi**: ₦260,000/sqm - Affordable land availability
+
+The 13.5x price differential indicates significant spatial variation in perceived value and development potential across the LCDA.
 
 ## Dataset Structure
 
